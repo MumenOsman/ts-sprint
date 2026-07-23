@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build outputs (compiled JavaScript)
+dist/
+build/
+
+# Logs & Environment variables
+*.log
+.env
+.env.local
+
+# Editor/OS specific
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
